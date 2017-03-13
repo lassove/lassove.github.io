@@ -7,7 +7,7 @@
 
 # Site settings
 title: lassove
-brief-intro: 不写代码会死星人
+brief-intro: 后端 前端 架构
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lassove.github.io" # the base hostname & protocol for your site
 
