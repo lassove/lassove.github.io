@@ -14,7 +14,9 @@ type: page
 <iframe src="https://githubbadge.appspot.com/lassove?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 闷头写代码,抬头望星空.
+
 是从故纸堆里出来的人.
+
 从未写过博文,从未show过功底.
 
 
@@ -33,7 +35,8 @@ type: page
 
 ## 关于本站
 
-**主题由[https://github.com/Gaohaoyang]设计.**
+**主题由[https://github.com/Gaohaoyang](https://github.com/Gaohaoyang)设计.**
+
 **若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
 
