@@ -11,6 +11,11 @@ author: lassove
 
 很多时候，我们需要使用一些外部程序打开 `IDEA` 项目里的某些文件。比如使用` ps` 打开图片修图，或者像我一样使用 `typora` 来编辑 `markdown` 文件。下面就来分享如果配置`IDEA` ，可以直接在文件上右键，选择·`External Tools` --> 你的工具 打开选中文件。
 
+
+
+
+
+
 ## 痛点
 
 最近开始重新写博客，使用的是` github page` 功能，为了方便，直接用` IDEA` 来管理` page` 项目，只需要创建 `markdown` 文件，写写写，然后 `commit&push` 即可。但是使用 `IDEA` 自带的 `markdown` 编辑器书写体验很不好，多番比较之后，在`windows`下选择了 `typora` 作为` markdown` 编辑器。于是就萌生了如果在 `IDEA` 里集成 `typora` 使其可以直接打开创建的 `markdown` 文件编辑。几番摸索，终于差不多达到我想要的效果。
